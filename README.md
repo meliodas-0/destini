@@ -2,6 +2,6 @@
 # Destini 🤔
 
 
-<img src = "https://github.com/londonappbrewery/Images/blob/master/Destini.gif" width = "400">
+<img src = "https://github.com/meliodas-0/destini/blob/master/destini.gif" width = "400">
 
 
